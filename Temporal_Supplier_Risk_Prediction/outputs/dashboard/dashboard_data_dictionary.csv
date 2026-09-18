@@ -1,0 +1,16 @@
+field,meaning,dashboard_use
+supplier_id,Unique supplier identifier,Supplier selection/filter
+period,Latest supplier observation period,Time context
+predicted_risk_N1,Predicted next-period risk category,Risk classification
+probability_high,Model probability assigned to High risk,Model risk signal
+priority_score,Operational supplier priority score from 0-100,Supplier ranking
+priority_band,Operational priority category,Priority segmentation
+delivery_risk_score,Delivery-related operational risk score,Risk driver
+quality_risk_score,Quality-related operational risk score,Risk driver
+strategic_exposure_score,Strategic exposure component,Business exposure
+deterioration_score,Recent deterioration/trend component,Trend risk
+model_high_risk_score,Model high-risk component converted to 0-100,Model signal
+primary_risk_domain,Main operational reason associated with supplier priority,Risk explanation
+why_risky,Human-readable explanation of supplier risk,Supplier drill-through
+risk_evidence,Evidence supporting the risk explanation,Decision support
+recommended_intervention,Deterministic procurement intervention,Action recommendation

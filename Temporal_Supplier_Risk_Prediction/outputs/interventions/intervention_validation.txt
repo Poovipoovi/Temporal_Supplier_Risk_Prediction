@@ -1,0 +1,10 @@
+PHASE 6 VALIDATION
+==================
+Suppliers: 40
+One row per supplier: PASSED
+Future/outcome exclusion: PASSED
+Evidence attached: PASSED
+Immediate intervention: 0
+Corrective action: 15
+Enhanced monitoring: 14
+Routine monitoring: 11

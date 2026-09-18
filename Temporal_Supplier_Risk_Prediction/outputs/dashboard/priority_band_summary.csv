@@ -1,0 +1,3 @@
+priority_band,supplier_count,average_priority_score,average_probability_high
+Low,33,13.22,0.1102
+Moderate,7,28.88,0.2167

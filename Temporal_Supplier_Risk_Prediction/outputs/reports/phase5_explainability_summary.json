@@ -1,0 +1,35 @@
+{
+  "phase": "Phase 5 - Model Explainability",
+  "project": "Temporal Supplier Risk Prediction and Prioritization",
+  "selected_model": "Logistic Regression Standard",
+  "high_risk_threshold": 0.4,
+  "feature_count": 47,
+  "training_range": [
+    "2022-01",
+    "2024-06"
+  ],
+  "oot_range": [
+    "2024-07",
+    "2025-03"
+  ],
+  "training_rows": 1172,
+  "oot_rows": 278,
+  "oot_suppliers": 40,
+  "explainability_method": "Multiclass logistic-regression coefficients and exact per-row standardized-feature contributions.",
+  "model_reproduction_max_probability_difference": 3.885780586188048e-16,
+  "outcome_variables_used_for_explanation": false,
+  "oot_outcomes_used_for_feature_selection": false,
+  "threshold_retuned": false,
+  "model_selection_changed": false,
+  "files": {
+    "global_feature_importance": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\global_feature_importance.csv",
+    "logistic_coefficients_by_class": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\logistic_coefficients_by_class.csv",
+    "high_risk_coefficients": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\high_risk_coefficients.csv",
+    "high_risk_feature_contributions": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\high_risk_feature_contributions.csv",
+    "local_prediction_explanations": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\local_prediction_explanations.csv",
+    "latest_supplier_explanations": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\latest_supplier_explanations.csv",
+    "latest_high_risk_explanations": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\latest_high_risk_explanations.csv",
+    "global_importance_plot": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\global_feature_importance.png",
+    "high_risk_contribution_plot": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\high_risk_feature_contributions.png"
+  }
+}

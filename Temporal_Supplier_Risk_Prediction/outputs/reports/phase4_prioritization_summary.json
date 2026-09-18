@@ -1,0 +1,46 @@
+{
+    "phase": "Phase 4",
+    "methodology": "ML prediction -> expected risk severity -> business exposure -> priority score -> procurement watchlist",
+    "input_records": 278,
+    "unique_suppliers": 40,
+    "month_N_periods": 9,
+    "latest_month_N": "2025-03",
+    "predicted_risk_distribution": {
+        "Low": 110,
+        "High": 103,
+        "Medium": 65
+    },
+    "priority_distribution": {
+        "Monitor": 277,
+        "Medium Priority": 1
+    },
+    "high_risk_predictions": 103,
+    "high_probability_high_risk_predictions": 95,
+    "critical_exposure_flags": 0,
+    "watchlist_records": 103,
+    "priority_score": {
+        "formula": "expected_risk_severity * business_exposure * 100",
+        "business_exposure_formula": "0.70 * spend_share + 0.30 * critical_component_exposure",
+        "high_priority_threshold": 20.0,
+        "medium_priority_threshold": 7.5
+    },
+    "risk_severity_mapping": {
+        "Low": 0.0,
+        "Medium": 0.5,
+        "High": 1.0
+    },
+    "high_probability_threshold": 0.5,
+    "outputs": {
+        "all_periods": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\prioritization\\supplier_priority_all_periods.csv",
+        "latest": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\prioritization\\supplier_priority_latest.csv",
+        "watchlist": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\prioritization\\high_risk_watchlist.csv",
+        "supplier_summary": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\reports\\phase4_supplier_summary.csv"
+    },
+    "validation": {
+        "temporal_validation": true,
+        "risk_validation": true,
+        "probability_validation": true,
+        "exposure_validation": true,
+        "priority_validation": true
+    }
+}

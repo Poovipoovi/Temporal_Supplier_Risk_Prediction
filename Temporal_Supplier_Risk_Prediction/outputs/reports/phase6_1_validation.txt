@@ -1,0 +1,13 @@
+PHASE 6.1 VALIDATION
+====================
+Suppliers: 40
+One row per supplier: PASSED
+Operational score ranges: PASSED
+Future/outcome exclusion: PASSED
+why_risky coverage: PASSED
+risk_evidence coverage: PASSED
+Local explainability attached: 0/40
+Immediate intervention: 0
+Corrective action: 15
+Enhanced monitoring: 14
+Routine monitoring: 11

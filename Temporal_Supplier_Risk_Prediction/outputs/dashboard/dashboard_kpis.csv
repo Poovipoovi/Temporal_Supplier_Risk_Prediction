@@ -1,0 +1,13 @@
+kpi,value
+Total suppliers,40
+High/Critical priority suppliers,0
+Moderate priority suppliers,7
+Low priority suppliers,33
+Immediate intervention suppliers,0
+Corrective action suppliers,15
+Selected model,Logistic Regression Standard
+Selected model accuracy,0.4928057553956834
+High-risk precision,0.5142857142857142
+High-risk recall,0.2608695652173913
+High-risk F1,0.3461538461538461
+ROC AUC,0.6703399930399986

@@ -1,0 +1,16 @@
+{
+  "phase": "Phase 6 - Supplier Action / Intervention Recommendation",
+  "supplier_count": 40,
+  "latest_period": "2025-03",
+  "intervention_counts": {
+    "Corrective action": 15,
+    "Enhanced monitoring": 14,
+    "Routine monitoring": 11
+  },
+  "outputs": {
+    "recommendations": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\supplier_intervention_recommendations.csv",
+    "high_priority": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\high_priority_interventions.csv",
+    "action_summary": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\action_summary.csv",
+    "validation": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\intervention_validation.txt"
+  }
+}

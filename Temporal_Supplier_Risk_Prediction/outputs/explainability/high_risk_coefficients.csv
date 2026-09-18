@@ -1,0 +1,48 @@
+feature,high_risk_coefficient,absolute_high_risk_coefficient,direction
+roll3_mean_avg_days_late,0.8049078014779816,0.8049078014779816,pushes toward High
+risk_change,0.6532418575204978,0.6532418575204978,pushes toward High
+lag1_avg_days_late,0.5570821315861433,0.5570821315861433,pushes toward High
+previous_risk_severity,0.5505869440408531,0.5505869440408531,pushes toward High
+total_scrap_qty,-0.33552246468574365,0.33552246468574365,pushes away from High
+delay_acceleration,0.3231491676341507,0.3231491676341507,pushes toward High
+lag1_quality_event_rate,0.30707122013219285,0.30707122013219285,pushes toward High
+quality_event_rate,0.2566735542264949,0.2566735542264949,pushes toward High
+spend_share,-0.24645202532640026,0.24645202532640026,pushes away from High
+roll3_mean_total_scrap_qty,0.2075592530557303,0.2075592530557303,pushes toward High
+lag1_total_scrap_qty,-0.20163033484513324,0.20163033484513324,pushes away from High
+lag1_late_delivery_rate,0.18172006845448177,0.18172006845448177,pushes toward High
+roll3_mean_late_delivery_rate,0.18164743412172635,0.18164743412172635,pushes toward High
+late_delivery_rate,-0.16567886178990746,0.16567886178990746,pushes away from High
+avg_days_late,0.13667573613253578,0.13667573613253578,pushes toward High
+quality_rate_acceleration,0.12150239769266567,0.12150239769266567,pushes toward High
+is_worsening,-0.11527808924761275,0.11527808924761275,pushes away from High
+late_rate_trend,0.10990291332486912,0.10990291332486912,pushes toward High
+roll3_std_quality_event_rate,-0.10953808524755183,0.10953808524755183,pushes away from High
+roll3_mean_quality_event_rate,-0.08372923212315869,0.08372923212315869,pushes away from High
+roll3_std_short_delivery_rate,0.07651016795904506,0.07651016795904506,pushes toward High
+roll3_std_late_delivery_rate,-0.05119502684702807,0.05119502684702807,pushes away from High
+lag1_short_delivery_rate,-0.05101232095930269,0.05101232095930269,pushes away from High
+lag1_spend_share,-0.042700231834028754,0.042700231834028754,pushes away from High
+short_delivery_rate,-0.04171130730731213,0.04171130730731213,pushes away from High
+quality_rate_trend,-0.04019046623420728,0.04019046623420728,pushes away from High
+has_trend_data,0.03989643546785106,0.03989643546785106,pushes toward High
+risk_history_available,0.03989643546785106,0.03989643546785106,pushes toward High
+current_high_risk_flag,0.035113448855829135,0.035113448855829135,pushes toward High
+current_risk_severity,0.03148706066686536,0.03148706066686536,pushes toward High
+late_rate_acceleration,-0.018059375956979522,0.018059375956979522,pushes away from High
+avg_days_late_trend,0.01224104876390221,0.01224104876390221,pushes toward High
+roll3_std_avg_days_late,0.011908142244690206,0.011908142244690206,pushes toward High
+risk_worsening_streak,0.009000025087505234,0.009000025087505234,pushes toward High
+roll3_mean_short_delivery_rate,-0.005694481825986826,0.005694481825986826,pushes away from High
+current_medium_risk_flag,0.003223560225953127,0.003223560225953127,pushes toward High
+route_deviation_flag,0.0,0.0,neutral
+transit_delay_rate,0.0,0.0,neutral
+rework_cost_ratio,0.0,0.0,neutral
+critical_component_exposure,0.0,0.0,neutral
+transit_delay_trend,0.0,0.0,neutral
+supplier_fault_rate,0.0,0.0,neutral
+lag1_rework_cost_ratio,0.0,0.0,neutral
+lag1_supplier_fault_rate,0.0,0.0,neutral
+lag1_critical_component_exposure,0.0,0.0,neutral
+roll3_std_rework_cost_ratio,0.0,0.0,neutral
+roll3_mean_rework_cost_ratio,0.0,0.0,neutral

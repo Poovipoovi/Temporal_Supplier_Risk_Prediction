@@ -1,0 +1,8 @@
+intervention_level,primary_risk_domain,supplier_count
+Corrective action,Delivery,2
+Corrective action,Deterioration,11
+Corrective action,Quality,2
+Enhanced monitoring,Delivery,2
+Enhanced monitoring,Deterioration,9
+Enhanced monitoring,Model signal,3
+Routine monitoring,Routine monitoring,11

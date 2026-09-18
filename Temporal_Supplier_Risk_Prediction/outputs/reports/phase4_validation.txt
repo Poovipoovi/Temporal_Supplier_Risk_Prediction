@@ -1,0 +1,22 @@
+PHASE 4 VALIDATION REPORT
+======================================================================
+Input file: C:\Users\newuser\Downloads\Supplier_analysis_project\outputs\predictions\selected_model_predictions.csv
+Supplier count: 40
+Latest snapshot period range: 2024-12 -> 2025-03
+
+Operational score components:
+30% model high-risk probability
+25% delivery risk
+20% quality risk
+15% strategic exposure
+10% deterioration
+
+Future/outcome variables excluded:
+actual_risk_N1
+prediction_correct
+target_risk_N1
+target_risk_score_N1
+target_low_boundary
+target_high_boundary
+
+PHASE 4 STATUS: PASSED

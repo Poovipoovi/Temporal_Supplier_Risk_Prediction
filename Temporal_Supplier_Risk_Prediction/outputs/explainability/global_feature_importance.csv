@@ -1,0 +1,48 @@
+feature,mean_absolute_coefficient,mean_signed_coefficient,rank,overall_direction
+roll3_mean_avg_days_late,0.5978324010120855,-2.220446049250313e-16,1,negative across classes on average
+risk_change,0.43549457168033073,1.0547118733938987e-15,2,positive across classes on average
+lag1_avg_days_late,0.3744260715157505,9.899488636240978e-16,3,positive across classes on average
+previous_risk_severity,0.3670579626939025,-4.440892098500626e-16,4,negative across classes on average
+lag1_late_delivery_rate,0.3023417578871803,6.291263806209221e-16,5,positive across classes on average
+current_high_risk_flag,0.29221046499528164,-4.810966440042345e-16,6,negative across classes on average
+lag1_quality_event_rate,0.29002630714214567,8.696747026230393e-16,7,positive across classes on average
+delay_acceleration,0.27816635424439334,4.163336342344337e-16,8,positive across classes on average
+total_scrap_qty,0.22368164312382946,3.452099717193846e-16,9,positive across classes on average
+late_rate_trend,0.21911023052600945,-1.6653345369377348e-16,10,negative across classes on average
+current_medium_risk_flag,0.21521805005342412,-1.2027416100105863e-15,11,negative across classes on average
+roll3_mean_total_scrap_qty,0.1955867877457854,6.059967342745646e-16,12,positive across classes on average
+avg_days_late,0.19517042128560771,9.71445146547012e-16,13,positive across classes on average
+quality_event_rate,0.17111570281766256,7.123931074678088e-16,14,positive across classes on average
+spend_share,0.16430135021759953,-6.268134159862863e-16,15,negative across classes on average
+current_risk_severity,0.15297839930315887,1.4617936490897894e-15,16,positive across classes on average
+roll3_mean_late_delivery_rate,0.15166053051396788,6.47630097698008e-17,17,positive across classes on average
+avg_days_late_trend,0.15086624352988406,1.7578531223231644e-16,18,positive across classes on average
+lag1_total_scrap_qty,0.14968465561365787,-8.81239525796218e-16,19,negative across classes on average
+roll3_std_quality_event_rate,0.12224028957937472,2.0816681711721685e-16,20,positive across classes on average
+late_delivery_rate,0.11045257452660485,-1.2374360795301223e-16,21,negative across classes on average
+quality_rate_trend,0.10274702694101578,5.643633708511212e-16,22,positive across classes on average
+quality_rate_acceleration,0.08396365517073391,9.000323634526335e-16,23,positive across classes on average
+is_worsening,0.07685205949840875,2.498001805406602e-16,24,positive across classes on average
+risk_worsening_streak,0.06823423102909809,-4.903485025427775e-16,25,negative across classes on average
+roll3_mean_quality_event_rate,0.057843881942978716,6.013708050052932e-16,26,positive across classes on average
+roll3_std_short_delivery_rate,0.05100677863936378,-4.1170770496516223e-16,27,negative across classes on average
+risk_history_available,0.04818005599798216,6.707597440443654e-17,28,positive across classes on average
+has_trend_data,0.048180055997982064,-2.544261098099317e-17,29,negative across classes on average
+lag1_spend_share,0.04619591088073347,-7.28583859910259e-17,30,negative across classes on average
+lag1_short_delivery_rate,0.04277494072194351,3.099372610411895e-16,31,positive across classes on average
+roll3_std_late_delivery_rate,0.03413001789801834,-3.770132354456261e-16,32,negative across classes on average
+roll3_mean_short_delivery_rate,0.03149411243105776,1.1102230246251565e-16,33,positive across classes on average
+short_delivery_rate,0.027807538204874454,-2.983724378680108e-16,34,negative across classes on average
+roll3_std_avg_days_late,0.025026074635773433,-1.1379786002407855e-15,35,negative across classes on average
+late_rate_acceleration,0.012039583971319818,1.3588667228484988e-16,36,positive across classes on average
+route_deviation_flag,0.0,0.0,37,neutral on average
+transit_delay_rate,0.0,0.0,37,neutral on average
+rework_cost_ratio,0.0,0.0,37,neutral on average
+critical_component_exposure,0.0,0.0,37,neutral on average
+transit_delay_trend,0.0,0.0,37,neutral on average
+supplier_fault_rate,0.0,0.0,37,neutral on average
+lag1_rework_cost_ratio,0.0,0.0,37,neutral on average
+lag1_supplier_fault_rate,0.0,0.0,37,neutral on average
+lag1_critical_component_exposure,0.0,0.0,37,neutral on average
+roll3_std_rework_cost_ratio,0.0,0.0,37,neutral on average
+roll3_mean_rework_cost_ratio,0.0,0.0,37,neutral on average

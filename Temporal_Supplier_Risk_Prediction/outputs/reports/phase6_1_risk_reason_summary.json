@@ -1,0 +1,31 @@
+{
+  "phase": "Phase 6.1 - Supplier Risk Reason + Evidence Enhancement",
+  "supplier_count": 40,
+  "local_explanation_suppliers": 0,
+  "local_explanation_status": "Phase 5 explanation file found at C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\explainability\\local_prediction_explanations.csv, but no supported feature/contribution columns were detected; score-based evidence only.",
+  "governance": {
+    "future_outcome_columns_excluded": true,
+    "deterministic_rules": true,
+    "every_supplier_has_reason": true,
+    "every_supplier_has_evidence": true
+  },
+  "intervention_counts": {
+    "Corrective action": 15,
+    "Enhanced monitoring": 14,
+    "Routine monitoring": 11
+  },
+  "primary_risk_domain_counts": {
+    "Deterioration": 20,
+    "Routine monitoring": 11,
+    "Delivery": 4,
+    "Model signal": 3,
+    "Quality": 2
+  },
+  "outputs": {
+    "recommendations_explained": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\supplier_intervention_recommendations_explained.csv",
+    "high_priority_explained": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\high_priority_interventions_explained.csv",
+    "supplier_risk_reasons": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\supplier_risk_reasons.csv",
+    "action_summary": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\interventions\\action_summary_explained.csv",
+    "validation": "C:\\Users\\newuser\\Downloads\\Supplier_analysis_project\\outputs\\reports\\phase6_1_validation.txt"
+  }
+}

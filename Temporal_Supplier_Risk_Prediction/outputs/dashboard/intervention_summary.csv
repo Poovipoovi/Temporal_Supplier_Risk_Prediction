@@ -1,0 +1,8 @@
+intervention_level,primary_risk_domain,supplier_count,average_priority_score
+Corrective action,Delivery,2,28.1
+Corrective action,Deterioration,11,20.18
+Corrective action,Quality,2,23.08
+Enhanced monitoring,Delivery,2,24.98
+Enhanced monitoring,Deterioration,9,14.9
+Enhanced monitoring,Model signal,3,17.24
+Routine monitoring,Routine monitoring,11,7.12

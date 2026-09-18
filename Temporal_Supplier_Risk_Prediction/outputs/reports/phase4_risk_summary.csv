@@ -1,0 +1,5 @@
+priority_band,supplier_count,average_priority_score,average_probability_high,average_delivery_risk,average_quality_risk
+Low,33,13.22,0.1102,19.29,2.8
+Moderate,7,28.88,0.2167,43.8,13.06
+High,0,,,,
+Critical,0,,,,
